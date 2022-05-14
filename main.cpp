@@ -1,5 +1,9 @@
 #include <cstdio>
 #include "bitmap_image.hpp"
+/*
+ * Piotr Pakulski Zad. 5
+ * Credit for https://github.com/ArashPartow/bitmap
+ */
 
 int main()
 {

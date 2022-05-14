@@ -1,0 +1,3 @@
+/Users/ppakulski/Documents/studia/sem4/Podstawy systemow informatycznych zarzadzania/lab/zad5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ppakulski/Documents/studia/sem4/Podstawy systemow informatycznych zarzadzania/lab/zad5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ppakulski/Documents/studia/sem4/Podstawy systemow informatycznych zarzadzania/lab/zad5/cmake-build-debug/CMakeFiles/zad5.dir

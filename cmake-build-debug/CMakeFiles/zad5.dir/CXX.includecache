@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ppakulski/Documents/studia/sem4/Podstawy systemow informatycznych zarzadzania/lab/zad5/bitmap_image.hpp
+algorithm
+-
+cmath
+-
+cstdlib
+-
+cstring
+-
+fstream
+-
+iostream
+-
+iterator
+-
+limits
+-
+string
+-
+vector
+-
+
+/Users/ppakulski/Documents/studia/sem4/Podstawy systemow informatycznych zarzadzania/lab/zad5/main.cpp
+cstdio
+-
+bitmap_image.hpp
+/Users/ppakulski/Documents/studia/sem4/Podstawy systemow informatycznych zarzadzania/lab/zad5/bitmap_image.hpp
+
